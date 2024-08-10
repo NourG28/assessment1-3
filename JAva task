@@ -11,4 +11,10 @@
 </head>
 <body>
     <main>
+                
+
+<h1>Bird Selector</h1>
+<img id="birdImage" src="http://www.outgrabe.net/bird03.jpg" alt="Inland Thornbill">
+<p id="birdText">Inland Thornbill by Peter Jacobs (CC-by-SA)</p>
+
         
